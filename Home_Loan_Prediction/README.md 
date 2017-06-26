@@ -1,0 +1,5 @@
+
+- Problem solved using numpy, pandas and sklearn libraries of python
+- Implemented techniques: GradientBoostingClassifier, RandomForestClassifier, VotingClassifier, Support Vetor Machine, MLPClassifier(Multi-layer Neural Network). The best was chosen for outputing the regression model to use in home loan prediction
+
+

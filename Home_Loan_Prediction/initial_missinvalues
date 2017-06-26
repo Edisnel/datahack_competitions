@@ -1,0 +1,60 @@
+
+ApplicantIncome        0
+CoapplicantIncome      0
+Credit_History        79
+Dependents            25
+Education              0
+Gender                24
+LoanAmount            27
+Loan_Amount_Term      20
+Loan_ID                0
+Loan_Status          367
+Married                3
+Property_Area          0
+Self_Employed         55
+source                 0
+
+Frequency of Categories for varible Dependents
+0     545
+2     160
+1     160
+3+     91
+dtype: int64
+
+Frequency of Categories for varible Education
+Graduate        763
+Not Graduate    218
+dtype: int64
+
+Frequency of Categories for varible Gender
+Male      775
+Female    182
+dtype: int64
+
+Frequency of Categories for varible Loan_Status
+Y    422
+N    192
+dtype: int64
+
+Frequency of Categories for varible Married
+Yes    631
+No     347
+dtype: int64
+
+Frequency of Categories for varible Property_Area
+Semiurban    349
+Urban        342
+Rural        290
+dtype: int64
+
+Frequency of Categories for varible Self_Employed
+No     807
+Yes    119
+dtype: int64
+
+Frequency of Categories for varible source
+train    614
+test     367
+dtype: int64
+
+
